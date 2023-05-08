@@ -1,2 +1,2 @@
 # newARproject
-starosta
+Kostych Anastasia
